@@ -3,7 +3,7 @@
 
 ## Technology and Library Usage:
 * **Language:** Python 3.10+
-* **Supporting libraries:** `numpy`, `pandas`, `matplotlib` 
+* **Supporting libraries:** `numpy`, `pandas`, `matplotlib`,... 
 *   **Environment:** Jupyter Notebook / Google Colab
 
 ## Project:
