@@ -1,0 +1,12 @@
+git init
+git clone
+git pull
+git branch -M main
+
+git add và git add .
+git commit -m "first commit"
+git push -u origin main
+
+git log
+git log —decorate —graph —oneline
+git remote add origin https://github.com/NhatTuong1211/Deep_Learning_SGU.git
