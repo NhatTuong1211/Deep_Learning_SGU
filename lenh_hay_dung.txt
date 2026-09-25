@@ -9,4 +9,4 @@ git push -u origin main
 
 git log
 git log —decorate —graph —oneline
-git remote add origin https://github.com/NhatTuong1211/Deep_Learning_SGU.git
+git remote add origin https://github.com/NhatTuong1211/Deep_Learning_workgroupSGU.git
